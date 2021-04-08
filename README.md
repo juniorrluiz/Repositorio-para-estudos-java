@@ -1,2 +1,2 @@
 # Repositorio-para-estudos-java
-Este repositÃ³rio Ã© para estudos pessoais em Java e nele vai conter atividades.
+Este repositório é para estudos pessoais em Java e nele vai conter atividades.
