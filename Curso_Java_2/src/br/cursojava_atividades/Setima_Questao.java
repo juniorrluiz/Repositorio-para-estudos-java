@@ -2,7 +2,7 @@ package br.cursojava_atividades;
 
 import java.util.Scanner;
 
-public class Sétima_Questao {
+public class Setima_Questao {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -12,18 +12,18 @@ public class Sétima_Questao {
 		double num3 = sc.nextDouble();
 
 		if (num1 > num2 && num1 > num3 ) {
-			System.out.println("o numero " + num1 + " é maior");
+			System.out.println("o numero " + num1 + " ï¿½ maior");
 		} else if (num2 > num1 && num2 > num3){
-			System.out.println("o numero " + num2 + " é maior");
+			System.out.println("o numero " + num2 + " ï¿½ maior");
 		}else {
-			System.out.println("o numero " + num3 + " é maior");
+			System.out.println("o numero " + num3 + " ï¿½ maior");
 		}
 		if (num1 < num2 && num1 < num3 ) {
-			System.out.println("o numero " + num1 + " é menor");
+			System.out.println("o numero " + num1 + " ï¿½ menor");
 		} else if (num2 < num1 && num2 < num3){
-			System.out.println("o numero " + num2 + " é menor");
+			System.out.println("o numero " + num2 + " ï¿½ menor");
 		}else {
-			System.out.println("o numero " + num3 + " é menor");
+			System.out.println("o numero " + num3 + " ï¿½ menor");
 		}
 	
 
