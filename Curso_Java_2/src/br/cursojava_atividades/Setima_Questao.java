@@ -2,6 +2,9 @@ package br.cursojava_atividades;
 
 import java.util.Scanner;
 
+/*7. Faça um Programa que leia três números e mostre o maior e o menor 
+deles.*/
+
 public class Setima_Questao {
 
 	public static void main(String[] args) {

@@ -2,6 +2,9 @@ package br.cursojava_atividades;
 
 import java.util.Scanner;
 
+/*2. Faça um Programa que peça um valor e mostre na tela se o valor é 
+positivo ou negativo.*/
+
 public class Segunda_Questao {
 
 	public static void main(String[] args) {

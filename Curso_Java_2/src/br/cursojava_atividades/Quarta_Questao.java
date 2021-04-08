@@ -2,6 +2,9 @@ package br.cursojava_atividades;
 
 import java.util.Scanner;
 
+/*4. Faça um Programa que verifique se uma letra digitada é vogal ou 
+consoante.*/
+
 public class Quarta_Questao {
 
 	public static void main(String[] args) {
