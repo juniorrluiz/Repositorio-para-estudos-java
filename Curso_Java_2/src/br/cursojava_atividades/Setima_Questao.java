@@ -12,18 +12,18 @@ public class Setima_Questao {
 		double num3 = sc.nextDouble();
 
 		if (num1 > num2 && num1 > num3 ) {
-			System.out.println("o numero " + num1 + " ï¿½ maior");
+			System.out.println("o numero " + num1 + " é maior");
 		} else if (num2 > num1 && num2 > num3){
-			System.out.println("o numero " + num2 + " ï¿½ maior");
+			System.out.println("o numero " + num2 + " é maior");
 		}else {
-			System.out.println("o numero " + num3 + " ï¿½ maior");
+			System.out.println("o numero " + num3 + " é maior");
 		}
 		if (num1 < num2 && num1 < num3 ) {
-			System.out.println("o numero " + num1 + " ï¿½ menor");
+			System.out.println("o numero " + num1 + " é menor");
 		} else if (num2 < num1 && num2 < num3){
-			System.out.println("o numero " + num2 + " ï¿½ menor");
+			System.out.println("o numero " + num2 + " é menor");
 		}else {
-			System.out.println("o numero " + num3 + " ï¿½ menor");
+			System.out.println("o numero " + num3 + " é menor");
 		}
 	
 
