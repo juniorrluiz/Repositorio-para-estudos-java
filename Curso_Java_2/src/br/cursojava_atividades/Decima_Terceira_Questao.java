@@ -23,9 +23,6 @@ public class Decima_Terceira_Questao {
 
 		do {
 
-			//f (diaSemana >= 1 && diaSemana <= 7) {
-
-
 			switch (diaSemana) {
 			case 1:
 				System.out.println("Domingo");
