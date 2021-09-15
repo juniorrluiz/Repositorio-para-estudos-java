@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\anjunior\Códigos\Java Completo Nelio udemy\codigos\.metadata\.plugins\org.eclipse.jdt.core
+1710873509.index
+1544126577.index
