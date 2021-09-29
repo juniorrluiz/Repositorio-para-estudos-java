@@ -1,8 +1,8 @@
-package br.cursojava_atividades;
+package br.cursojava_atividades_aulas1415;
 
 import java.util.Scanner;
 
-/*4. Faça um Programa que verifique se uma letra digitada é vogal ou 
+/*4. Faï¿½a um Programa que verifique se uma letra digitada ï¿½ vogal ou 
 consoante.*/
 
 public class Quarta_Questao {
@@ -16,7 +16,7 @@ public class Quarta_Questao {
 		letra = sc.next();
 
 		if (letra.length() > 1) {
-			System.out.println("Informação invalida, tente novamente");
+			System.out.println("Informaï¿½ï¿½o invalida, tente novamente");
 		}else {
 			switch (letra) {
 			case "a":
@@ -29,10 +29,10 @@ public class Quarta_Questao {
 			case "O":
 			case "u":
 			case "U":
-				System.out.println("letra " + letra + " é vogal");
+				System.out.println("letra " + letra + " ï¿½ vogal");
 				break;
 
-			default: System.out.println("letra " + letra + " é consoante");
+			default: System.out.println("letra " + letra + " ï¿½ consoante");
 			break;
 			}
 		}

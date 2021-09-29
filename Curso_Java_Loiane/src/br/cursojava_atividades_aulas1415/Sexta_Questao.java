@@ -1,8 +1,8 @@
-package br.cursojava_atividades;
+package br.cursojava_atividades_aulas1415;
 
 import java.util.Scanner;
 
-/*6. Faça um Programa que leia três números e mostre o maior deles.*/
+/*6. Faï¿½a um Programa que leia trï¿½s nï¿½meros e mostre o maior deles.*/
 
 public class Sexta_Questao {
 
@@ -14,11 +14,11 @@ public class Sexta_Questao {
 		double num3 = sc.nextDouble();
 
 		if (num1 > num2 && num1 > num3 ) {
-			System.out.println("o numero " + num1 + " é maior");
+			System.out.println("o numero " + num1 + " ï¿½ maior");
 		} else if (num2 > num1 && num2 > num3){
-			System.out.println("o numero " + num2 + " é maior");
+			System.out.println("o numero " + num2 + " ï¿½ maior");
 		}else {
-			System.out.println("o numero " + num3 + " é maior");
+			System.out.println("o numero " + num3 + " ï¿½ maior");
 		}
 
 		sc.close();

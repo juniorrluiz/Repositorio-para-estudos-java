@@ -1,11 +1,11 @@
-package br.cursojava_atividades;
+package br.cursojava_atividades_aulas1415;
 
 import java.util.Scanner;
 
-/*10.Faça um Programa que pergunte em que turno você estuda. Peça 
+/*10.Faï¿½a um Programa que pergunte em que turno vocï¿½ estuda. Peï¿½a 
 para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a 
 mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor 
-Inválido!", conforme o caso.*/
+Invï¿½lido!", conforme o caso.*/
 
 public class Decima_Questao {
 
@@ -29,7 +29,7 @@ public class Decima_Questao {
 			break;
 
 		default: 
-			System.out.println("Valor inválido");
+			System.out.println("Valor invï¿½lido");
 			break;
 		}
 		

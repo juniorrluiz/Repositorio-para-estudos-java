@@ -1,8 +1,8 @@
-package br.cursojava_atividades;
+package br.cursojava_atividades_aulas1415;
 
 import java.util.Scanner;
 
-/*2. Faça um Programa que peça um valor e mostre na tela se o valor é 
+/*2. Faï¿½a um Programa que peï¿½a um valor e mostre na tela se o valor ï¿½ 
 positivo ou negativo.*/
 
 public class Segunda_Questao {
@@ -15,10 +15,10 @@ public class Segunda_Questao {
 		num = sc.nextDouble();
 		
 		if (num > 0) {
-			System.out.println("o numero " + num + " é positivo");
+			System.out.println("o numero " + num + " ï¿½ positivo");
 			
 		} else {
-			System.out.println("o numero " + num + " é negativo");
+			System.out.println("o numero " + num + " ï¿½ negativo");
 		}
 		sc.close();
 	}

@@ -1,33 +1,33 @@
-package br.cursojava_atividades;
+package br.cursojava_atividades_aulas1415;
 
 import java.util.Scanner;
 
-/*12.Faça um programa para o cálculo de uma folha de pagamento, 
-sabendo que os descontos são do Imposto de Renda, que depende do salário bruto (conforme tabela abaixo) e 3% para o Sindicato e que o 
-FGTS corresponde a 11% do Salário Bruto, mas não é descontado (é 
-a empresa que deposita). O Salário Líquido corresponde ao Salário 
-Bruto menos os descontos. O programa deverá pedir ao usuário o 
-valor da sua hora e a quantidade de horas trabalhadas no mês.
+/*12.Faï¿½a um programa para o cï¿½lculo de uma folha de pagamento, 
+sabendo que os descontos sï¿½o do Imposto de Renda, que depende do salï¿½rio bruto (conforme tabela abaixo) e 3% para o Sindicato e que o 
+FGTS corresponde a 11% do Salï¿½rio Bruto, mas nï¿½o ï¿½ descontado (ï¿½ 
+a empresa que deposita). O Salï¿½rio Lï¿½quido corresponde ao Salï¿½rio 
+Bruto menos os descontos. O programa deverï¿½ pedir ao usuï¿½rio o 
+valor da sua hora e a quantidade de horas trabalhadas no mï¿½s.
 o Desconto do IR:
-o Salário Bruto até 900 (inclusive) - isento
-o Salário Bruto até 1500 (inclusive) - desconto de 5%
-o Salário Bruto até 2500 (inclusive) - desconto de 10%
-o Salário Bruto acima de 2500 - desconto de 20% Imprima na tela 
-as informações, dispostas conforme o exemplo abaixo. No 
-exemplo o valor da hora é 5 e a quantidade de hora é 220.
-Salário Bruto: (5 * 220) : R$ 1100,00 
+o Salï¿½rio Bruto atï¿½ 900 (inclusive) - isento
+o Salï¿½rio Bruto atï¿½ 1500 (inclusive) - desconto de 5%
+o Salï¿½rio Bruto atï¿½ 2500 (inclusive) - desconto de 10%
+o Salï¿½rio Bruto acima de 2500 - desconto de 20% Imprima na tela 
+as informaï¿½ï¿½es, dispostas conforme o exemplo abaixo. No 
+exemplo o valor da hora ï¿½ 5 e a quantidade de hora ï¿½ 220.
+Salï¿½rio Bruto: (5 * 220) : R$ 1100,00 
 (-) IR (5%) : R$ 55,00 
 (-) INSS ( 10%) : R$ 110,00 
 FGTS (11%) : R$ 121,00 
 Total de descontos : R$ 165,00 
-Salário Liquido : R$ 935,00*/
+Salï¿½rio Liquido : R$ 935,00*/
 
 public class Decima_Segunda_Questao {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
-		System.out.println("Insira o valor da sua hora trabalhada e quantas horas você trabalhou no mes");
+		System.out.println("Insira o valor da sua hora trabalhada e quantas horas vocï¿½ trabalhou no mes");
 		double valorHora = sc.nextInt();
 		double horaTrabalhada = sc.nextInt();
 

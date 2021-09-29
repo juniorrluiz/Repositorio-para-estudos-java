@@ -1,8 +1,8 @@
-package br.cursojava_atividades;
+package br.cursojava_atividades_aulas1415;
 
 import java.util.Scanner;
 
-/*9. Faça um Programa que leia três números e mostre-os em ordem 
+/*9. Faï¿½a um Programa que leia trï¿½s nï¿½meros e mostre-os em ordem 
 decrescente.*/
 
 public class Nona_Questao {

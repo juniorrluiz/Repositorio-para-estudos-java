@@ -1,8 +1,8 @@
-package br.cursojava_atividades;
+package br.cursojava_atividades_aulas1415;
 
 import java.util.Scanner;
 
-/*1. Faça um Programa que peça dois números e imprima o maior deles.*/
+/*1. Faï¿½a um Programa que peï¿½a dois nï¿½meros e imprima o maior deles.*/
 
 public class Primeira_Questao {
 
@@ -15,9 +15,9 @@ public class Primeira_Questao {
 		num2 = sc.nextDouble();
 		
 		if(num1 > num2 ) {
-			System.out.println("O primeiro numero é maior");
+			System.out.println("O primeiro numero ï¿½ maior");
 		} else {
-			System.out.println("O segundo numero é maior");
+			System.out.println("O segundo numero ï¿½ maior");
 		}
 
 		sc.close();
