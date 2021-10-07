@@ -3,7 +3,7 @@ package br.cursojava_atividades_aulas1617;
 import java.util.Objects;
 import java.util.Scanner;
 
-public class Segunda_Questao {
+public class Atv2_Questao {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
